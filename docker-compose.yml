@@ -1,0 +1,19 @@
+services:
+  coldchain:
+    build: .
+    container_name: coldchain-alerting
+    ports:
+      - "8080:8080"
+    environment:
+      PORT: 8080
+      COLDCHAIN_DB: /app/data/coldchain.sqlite3
+    volumes:
+      - coldchain-data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/api/health', timeout=2)"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+volumes:
+  coldchain-data:

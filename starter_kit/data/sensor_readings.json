@@ -1,0 +1,1148 @@
+{
+  "readings": [
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 6.5,
+      "humidity_pct": 55
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 56
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 8.5,
+      "humidity_pct": 58
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 9.0,
+      "humidity_pct": 60
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 9.4,
+      "humidity_pct": 61
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:25:00",
+      "temperature_c": 9.6,
+      "humidity_pct": 62
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:30:00",
+      "temperature_c": 9.3,
+      "humidity_pct": 61
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:35:00",
+      "temperature_c": 8.8,
+      "humidity_pct": 60
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:40:00",
+      "temperature_c": 8.2,
+      "humidity_pct": 59
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:45:00",
+      "temperature_c": 7.5,
+      "humidity_pct": 57
+    },
+    {
+      "truck_id": "T-01",
+      "timestamp": "2026-07-20T08:50:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 56
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 6.2,
+      "humidity_pct": 51
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 8.9,
+      "humidity_pct": 53
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 6.5,
+      "humidity_pct": 51
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 6.3,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:25:00",
+      "temperature_c": 6.1,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:30:00",
+      "temperature_c": 6.4,
+      "humidity_pct": 51
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:35:00",
+      "temperature_c": 6.2,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:40:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 49
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:45:00",
+      "temperature_c": 6.3,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:50:00",
+      "temperature_c": 6.1,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 5.8,
+      "humidity_pct": 48
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 48
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 6.2,
+      "humidity_pct": 49
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 6.5,
+      "humidity_pct": 49
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 6.7,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:25:00",
+      "temperature_c": 6.9,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:30:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 51
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:35:00",
+      "temperature_c": 6.8,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:40:00",
+      "temperature_c": 6.6,
+      "humidity_pct": 50
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:45:00",
+      "temperature_c": 6.3,
+      "humidity_pct": 49
+    },
+    {
+      "truck_id": "T-03",
+      "timestamp": "2026-07-20T08:50:00",
+      "temperature_c": 6.1,
+      "humidity_pct": 49
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 6.5,
+      "humidity_pct": 52
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 8.4,
+      "humidity_pct": 54
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 8.6,
+      "humidity_pct": 55
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 52
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 7.5,
+      "humidity_pct": 52
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:25:00",
+      "temperature_c": 8.7,
+      "humidity_pct": 56
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:30:00",
+      "temperature_c": 8.9,
+      "humidity_pct": 57
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:40:00",
+      "temperature_c": 9.1,
+      "humidity_pct": 58
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:45:00",
+      "temperature_c": 8.5,
+      "humidity_pct": 57
+    },
+    {
+      "truck_id": "T-04",
+      "timestamp": "2026-07-20T08:50:00",
+      "temperature_c": 7.2,
+      "humidity_pct": 53
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 9.4,
+      "humidity_pct": 61
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 6.5,
+      "humidity_pct": 55
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:35:00",
+      "temperature_c": 8.8,
+      "humidity_pct": 60
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 8.5,
+      "humidity_pct": 58
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:45:00",
+      "temperature_c": 7.5,
+      "humidity_pct": 57
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 56
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:30:00",
+      "temperature_c": 9.3,
+      "humidity_pct": 61
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 9.0,
+      "humidity_pct": 60
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:40:00",
+      "temperature_c": 8.2,
+      "humidity_pct": 59
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:25:00",
+      "temperature_c": 9.6,
+      "humidity_pct": 62
+    },
+    {
+      "truck_id": "T-05",
+      "timestamp": "2026-07-20T08:50:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 56
+    },
+    {
+      "truck_id": "T-06",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 1.8,
+      "humidity_pct": 53,
+      "scenario": "sustained low excursion"
+    },
+    {
+      "truck_id": "T-06",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 1.6,
+      "humidity_pct": 53,
+      "scenario": "sustained low excursion"
+    },
+    {
+      "truck_id": "T-06",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 1.3,
+      "humidity_pct": 54,
+      "scenario": "sustained low excursion"
+    },
+    {
+      "truck_id": "T-06",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 1.1,
+      "humidity_pct": 54,
+      "scenario": "sustained low excursion"
+    },
+    {
+      "truck_id": "T-06",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 0.9,
+      "humidity_pct": 55,
+      "scenario": "sustained low excursion"
+    },
+    {
+      "truck_id": "T-06",
+      "timestamp": "2026-07-20T08:25:00",
+      "temperature_c": 3.2,
+      "humidity_pct": 53,
+      "scenario": "low excursion recovery"
+    },
+    {
+      "truck_id": "T-07",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 12.8,
+      "humidity_pct": 62,
+      "scenario": "immediate high extreme"
+    },
+    {
+      "truck_id": "T-07",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 11.4,
+      "humidity_pct": 60,
+      "scenario": "extreme recovery"
+    },
+    {
+      "truck_id": "T-07",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 7.0,
+      "humidity_pct": 55,
+      "scenario": "extreme recovery"
+    },
+    {
+      "truck_id": "T-08",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": -6.0,
+      "humidity_pct": 48,
+      "scenario": "immediate low extreme"
+    },
+    {
+      "truck_id": "T-08",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 3.0,
+      "humidity_pct": 50,
+      "scenario": "extreme recovery"
+    },
+    {
+      "truck_id": "T-02",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 8.9,
+      "humidity_pct": 53,
+      "scenario": "duplicate delivery; should be ignored"
+    },
+    {
+      "truck_id": "T-09",
+      "timestamp": "not-a-timestamp",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "scenario": "malformed timestamp; quarantine"
+    },
+    {
+      "truck_id": "T-09",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": "warm",
+      "humidity_pct": 50,
+      "scenario": "malformed temperature; quarantine"
+    },
+    {
+      "truck_id": "T-10",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": -99.0,
+      "humidity_pct": 47,
+      "scenario": "implausible sensor value; quarantine"
+    },
+    {
+      "truck_id": "T-11",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 8.6,
+      "humidity_pct": 56,
+      "sensor_id": "S-11",
+      "scenario": "unrecovered high excursion"
+    },
+    {
+      "truck_id": "T-11",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 9.0,
+      "humidity_pct": 57,
+      "sensor_id": "S-11",
+      "scenario": "unrecovered high excursion"
+    },
+    {
+      "truck_id": "T-11",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 9.4,
+      "humidity_pct": 58,
+      "sensor_id": "S-11",
+      "scenario": "unrecovered high excursion"
+    },
+    {
+      "truck_id": "T-11",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 9.8,
+      "humidity_pct": 59,
+      "sensor_id": "S-11",
+      "scenario": "unrecovered high excursion"
+    },
+    {
+      "truck_id": "T-11",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 10.2,
+      "humidity_pct": 60,
+      "sensor_id": "S-11",
+      "scenario": "unrecovered high excursion"
+    },
+    {
+      "truck_id": "T-12",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 51,
+      "sensor_id": "S-12",
+      "scenario": "possible stuck sensor"
+    },
+    {
+      "truck_id": "T-12",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 51,
+      "sensor_id": "S-12",
+      "scenario": "possible stuck sensor"
+    },
+    {
+      "truck_id": "T-12",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 51,
+      "sensor_id": "S-12",
+      "scenario": "possible stuck sensor"
+    },
+    {
+      "truck_id": "T-12",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 51,
+      "sensor_id": "S-12",
+      "scenario": "possible stuck sensor"
+    },
+    {
+      "truck_id": "T-12",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 6.0,
+      "humidity_pct": 51,
+      "sensor_id": "S-12",
+      "scenario": "possible stuck sensor"
+    },
+    {
+      "truck_id": "T-13",
+      "timestamp": "2026-07-20T08:00:00",
+      "temperature_c": 5.5,
+      "humidity_pct": 49,
+      "sensor_id": "S-13",
+      "scenario": "possible rapid-jump sensor fault"
+    },
+    {
+      "truck_id": "T-13",
+      "timestamp": "2026-07-20T08:05:00",
+      "temperature_c": 21.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-13",
+      "scenario": "possible rapid-jump sensor fault"
+    },
+    {
+      "truck_id": "T-13",
+      "timestamp": "2026-07-20T08:10:00",
+      "temperature_c": 5.7,
+      "humidity_pct": 49,
+      "sensor_id": "S-13",
+      "scenario": "possible rapid-jump sensor fault"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 16.0,
+      "humidity_pct": 53,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:10:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 49,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:15:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 52,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:20:00",
+      "temperature_c": 17.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:25:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 54,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-14",
+      "timestamp": "2026-07-20T10:30:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 51,
+      "sensor_id": "S-14",
+      "scenario": "repeated jump anomalies; sensor remains suspect"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:10:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:15:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:20:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:25:00",
+      "temperature_c": 15.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:30:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-15",
+      "timestamp": "2026-07-20T10:35:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-15",
+      "scenario": "stuck signal plus abrupt jump; corroborated sensor fault"
+    },
+    {
+      "truck_id": "T-16",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-16",
+      "scenario": "suspect sensor evidence while independent high cargo excursion remains active"
+    },
+    {
+      "truck_id": "T-16",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 15.0,
+      "humidity_pct": 53,
+      "sensor_id": "S-16",
+      "scenario": "suspect sensor evidence while independent high cargo excursion remains active"
+    },
+    {
+      "truck_id": "T-16",
+      "timestamp": "2026-07-20T10:10:00",
+      "temperature_c": 9.0,
+      "humidity_pct": 49,
+      "sensor_id": "S-16",
+      "scenario": "suspect sensor evidence while independent high cargo excursion remains active"
+    },
+    {
+      "truck_id": "T-16",
+      "timestamp": "2026-07-20T10:15:00",
+      "temperature_c": 9.2,
+      "humidity_pct": 52,
+      "sensor_id": "S-16",
+      "scenario": "suspect sensor evidence while independent high cargo excursion remains active"
+    },
+    {
+      "truck_id": "T-16",
+      "timestamp": "2026-07-20T10:20:00",
+      "temperature_c": 9.5,
+      "humidity_pct": 50,
+      "sensor_id": "S-16",
+      "scenario": "suspect sensor evidence while independent high cargo excursion remains active"
+    },
+    {
+      "truck_id": "T-16",
+      "timestamp": "2026-07-20T10:25:00",
+      "temperature_c": 9.8,
+      "humidity_pct": 54,
+      "sensor_id": "S-16",
+      "scenario": "suspect sensor evidence while independent high cargo excursion remains active"
+    },
+    {
+      "truck_id": "T-17",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-17",
+      "scenario": "single telemetry gap; stale data without declaring a sensor fault"
+    },
+    {
+      "truck_id": "T-17",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 50,
+      "sensor_id": "S-17",
+      "scenario": "single telemetry gap; stale data without declaring a sensor fault"
+    },
+    {
+      "truck_id": "T-17",
+      "timestamp": "2026-07-20T10:25:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-17",
+      "scenario": "single telemetry gap; stale data without declaring a sensor fault"
+    },
+    {
+      "truck_id": "T-17",
+      "timestamp": "2026-07-20T10:30:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 50,
+      "sensor_id": "S-17",
+      "scenario": "single telemetry gap; stale data without declaring a sensor fault"
+    },
+    {
+      "truck_id": "T-18",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-18",
+      "scenario": "explicit device calibration diagnostic failure",
+      "diagnostic_status": "CALIBRATION_FAILURE"
+    },
+    {
+      "truck_id": "T-18",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 50,
+      "sensor_id": "S-18",
+      "scenario": "explicit device calibration diagnostic failure",
+      "diagnostic_status": "CALIBRATION_FAILURE"
+    },
+    {
+      "truck_id": "T-18",
+      "timestamp": "2026-07-20T10:10:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 50,
+      "sensor_id": "S-18",
+      "scenario": "explicit device calibration diagnostic failure",
+      "diagnostic_status": "CALIBRATION_FAILURE"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-19A",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:00:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 53,
+      "sensor_id": "S-19B",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 52,
+      "sensor_id": "S-19A",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:05:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 50,
+      "sensor_id": "S-19B",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:10:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 49,
+      "sensor_id": "S-19A",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:10:00",
+      "temperature_c": 18.0,
+      "humidity_pct": 54,
+      "sensor_id": "S-19B",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:15:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 51,
+      "sensor_id": "S-19A",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-19",
+      "timestamp": "2026-07-20T10:15:00",
+      "temperature_c": 19.0,
+      "humidity_pct": 51,
+      "sensor_id": "S-19B",
+      "scenario": "paired sensors disagree on same demo compartment"
+    },
+    {
+      "truck_id": "T-13",
+      "timestamp": "2026-07-20T08:15:00",
+      "temperature_c": 5.8,
+      "humidity_pct": 49,
+      "sensor_id": "S-13",
+      "scenario": "normal readings confirm recovery after one temporary spike"
+    },
+    {
+      "truck_id": "T-13",
+      "timestamp": "2026-07-20T08:20:00",
+      "temperature_c": 5.6,
+      "humidity_pct": 49,
+      "sensor_id": "S-13",
+      "scenario": "normal readings confirm recovery after one temporary spike"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:00:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 85,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:05:00",
+      "temperature_c": 5.3,
+      "humidity_pct": 88,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:10:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 90,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:15:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 91,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:20:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 92,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:25:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 60,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-20",
+      "timestamp": "2026-07-20T11:30:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 62,
+      "sensor_id": "S-20",
+      "scenario": "sustained high humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-21",
+      "timestamp": "2026-07-20T11:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 25,
+      "sensor_id": "S-21",
+      "scenario": "sustained low humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-21",
+      "timestamp": "2026-07-20T11:05:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 22,
+      "sensor_id": "S-21",
+      "scenario": "sustained low humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-21",
+      "timestamp": "2026-07-20T11:10:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 18,
+      "sensor_id": "S-21",
+      "scenario": "sustained low humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-21",
+      "timestamp": "2026-07-20T11:15:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 17,
+      "sensor_id": "S-21",
+      "scenario": "sustained low humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-21",
+      "timestamp": "2026-07-20T11:20:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 50,
+      "sensor_id": "S-21",
+      "scenario": "sustained low humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-21",
+      "timestamp": "2026-07-20T11:25:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 52,
+      "sensor_id": "S-21",
+      "scenario": "sustained low humidity excursion and recovery"
+    },
+    {
+      "truck_id": "T-22",
+      "timestamp": "2026-07-20T11:00:00",
+      "temperature_c": 9.0,
+      "humidity_pct": 85,
+      "sensor_id": "S-22",
+      "scenario": "simultaneous temperature and humidity excursions"
+    },
+    {
+      "truck_id": "T-22",
+      "timestamp": "2026-07-20T11:05:00",
+      "temperature_c": 9.2,
+      "humidity_pct": 88,
+      "sensor_id": "S-22",
+      "scenario": "simultaneous temperature and humidity excursions"
+    },
+    {
+      "truck_id": "T-22",
+      "timestamp": "2026-07-20T11:10:00",
+      "temperature_c": 9.4,
+      "humidity_pct": 90,
+      "sensor_id": "S-22",
+      "scenario": "simultaneous temperature and humidity excursions"
+    },
+    {
+      "truck_id": "T-22",
+      "timestamp": "2026-07-20T11:15:00",
+      "temperature_c": 9.5,
+      "humidity_pct": 91,
+      "sensor_id": "S-22",
+      "scenario": "simultaneous temperature and humidity excursions"
+    },
+    {
+      "truck_id": "T-22",
+      "timestamp": "2026-07-20T11:20:00",
+      "temperature_c": 9.7,
+      "humidity_pct": 92,
+      "sensor_id": "S-22",
+      "scenario": "simultaneous temperature and humidity excursions"
+    },
+    {
+      "truck_id": "T-23",
+      "timestamp": "2026-07-20T11:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-23",
+      "scenario": "single humidity jump returns to baseline"
+    },
+    {
+      "truck_id": "T-23",
+      "timestamp": "2026-07-20T11:05:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 52,
+      "sensor_id": "S-23",
+      "scenario": "single humidity jump returns to baseline"
+    },
+    {
+      "truck_id": "T-23",
+      "timestamp": "2026-07-20T11:10:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 98,
+      "sensor_id": "S-23",
+      "scenario": "single humidity jump returns to baseline"
+    },
+    {
+      "truck_id": "T-23",
+      "timestamp": "2026-07-20T11:15:00",
+      "temperature_c": 5.1,
+      "humidity_pct": 51,
+      "sensor_id": "S-23",
+      "scenario": "single humidity jump returns to baseline"
+    },
+    {
+      "truck_id": "T-23",
+      "timestamp": "2026-07-20T11:20:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 52,
+      "sensor_id": "S-23",
+      "scenario": "single humidity jump returns to baseline"
+    },
+    {
+      "truck_id": "T-23",
+      "timestamp": "2026-07-20T11:25:00",
+      "temperature_c": 5.2,
+      "humidity_pct": 53,
+      "sensor_id": "S-23",
+      "scenario": "single humidity jump returns to baseline"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:05:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:10:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:15:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:20:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:25:00",
+      "temperature_c": 15.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-24",
+      "timestamp": "2026-07-20T11:30:00",
+      "temperature_c": 5.0,
+      "humidity_pct": 50,
+      "sensor_id": "S-24",
+      "scenario": "humidity flatline plus independent temperature jump"
+    },
+    {
+      "truck_id": "T-25",
+      "timestamp": "2026-07-20T12:00:00",
+      "temperature_c": 5.0,
+      "humidity_pct": null,
+      "sensor_id": "S-25",
+      "scenario": "humidity channel repeatedly missing; temperature still monitored"
+    },
+    {
+      "truck_id": "T-25",
+      "timestamp": "2026-07-20T12:05:00",
+      "temperature_c": 5.2,
+      "humidity_pct": null,
+      "sensor_id": "S-25",
+      "scenario": "humidity channel repeatedly missing; temperature still monitored"
+    },
+    {
+      "truck_id": "T-25",
+      "timestamp": "2026-07-20T12:10:00",
+      "temperature_c": 5.1,
+      "humidity_pct": null,
+      "sensor_id": "S-25",
+      "scenario": "humidity channel repeatedly missing; temperature still monitored"
+    },
+    {
+      "truck_id": "T-25",
+      "timestamp": "2026-07-20T12:15:00",
+      "temperature_c": 5.3,
+      "humidity_pct": null,
+      "sensor_id": "S-25",
+      "scenario": "humidity channel repeatedly missing; temperature still monitored"
+    }
+  ],
+  "description": "Consolidated synthetic cold-chain replay: original seed data plus labeled design and edge-case fixtures.",
+  "case_notes": [
+    "T-06 demonstrates a sustained low excursion, threshold-tolerance escalation, and recovery.",
+    "T-07 and T-08 demonstrate immediate escalation at configured extreme temperature limits.",
+    "The repeated T-02 event demonstrates duplicate suppression.",
+    "T-09 events demonstrate malformed timestamp and temperature quarantine.",
+    "T-10 demonstrates implausible temperature quarantine.",
+    "T-11 remains above the high limit after the tolerance crossing, demonstrating an active unrecovered incident.",
+    "T-12 demonstrates a possible stuck sensor and T-13 a possible abrupt sensor jump; these are data-quality flags, not confirmed hardware diagnoses.",
+    "The original dataset continues to demonstrate normal readings, short spikes, sustained high excursions, a telemetry gap, and out-of-order events.",
+    "T-13 is a single abrupt spike followed by normal readings; it demonstrates suspicion clearing after recovery.",
+    "T-14 has repeated distinct abrupt jumps and remains SUSPECT; repeated anomalies of one type alone do not confirm FAULTY.",
+    "T-15 combines a persistent stuck signal with a separate jump indicator, demonstrating corroborated FAULTY status.",
+    "T-16 shows a sensor anomaly and a sustained high cargo-temperature incident at once; sensor suspicion does not suppress temperature alerting.",
+    "T-17 has one telemetry gap and becomes STALE/UNKNOWN while sensor-health remains unconfirmed.",
+    "T-18 includes an explicit calibration failure diagnostic and demonstrates immediate FAULTY status.",
+    "T-19 has two sensors assigned to the same sample truck with repeated disagreement; cross-sensor comparison flags the outlier sensor SUSPECT.",
+    "T-20 demonstrates a sustained high-humidity alert and recovery under the illustrative humidity policy.",
+    "T-21 demonstrates a sustained low-humidity alert and recovery under the illustrative humidity policy.",
+    "T-22 demonstrates independent temperature and humidity incidents for the same truck.",
+    "T-23 demonstrates an isolated humidity jump that returns to baseline; humidity alerting and sensor-confidence evaluation are both visible.",
+    "T-24 demonstrates that a humidity flatline can add sensor-health evidence while a temperature anomaly is evaluated independently.",
+    "T-25 has repeated missing humidity values while temperature continues; the humidity channel is marked SUSPECT without declaring the entire sensor faulty."
+  ]
+}

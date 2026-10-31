@@ -1,0 +1,5 @@
+.git
+__MACOSX
+__pycache__
+*.pyc
+/data
